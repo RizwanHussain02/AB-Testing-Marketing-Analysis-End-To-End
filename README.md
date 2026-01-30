@@ -4,7 +4,7 @@ An end‑to‑end **A/B testing** project evaluating marketing campaign performa
 
 ---
 
-## 🧠 Business Question (Results‑Focused)
+## 🧠 Business Question
 
 **Does showing ads to users increase conversion rate compared to showing a PSA (control)?**
 
@@ -13,7 +13,7 @@ An end‑to‑end **A/B testing** project evaluating marketing campaign performa
 
 ---
 
-## ✅ Key Results (from the analysis notebook)
+## ✅ Key Results
 
 - **Conversion Rate (Ad):** **0.02555**  
 - **Conversion Rate (PSA):** **0.01785**

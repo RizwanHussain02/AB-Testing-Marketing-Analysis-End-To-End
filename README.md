@@ -140,7 +140,7 @@ Then:
 - **Notebook:** `AB_Testing.ipynb` (full EDA + statistical testing)
 - **SQL pipeline:** `ab testing postgreSQL Pipeline.sql` (summary tables for BI)
 - **Power BI dashboard:** `AB Testing Marketing Analysis Dashboard.pbix`
-- **Visual evidence:** charts, hypothesis testing screenshot, and business conclusion image
+- **Visuals:** charts, hypothesis testing screenshot, and business conclusion image
 
 ---
 
